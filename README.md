@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fotis Dorkofikis
-- 👀 I’m interested in Object Oriented programming architecture
+- 🚀 I’m interested in Object Oriented programming architecture (C# and Java)
 - 🌱 I’m currently learning Microservice Patterns
 
 - 📫 How to reach me ...
